@@ -1,1 +1,14 @@
 # Cars_Case_Study
+ - Importing modules and loading the dataset.
+ - Handling the Nan values.
+ - Cleaning the data with the help of outliers.
+ - Performing label encoding on the categorical data.
+ - Creating a new dataframe with the help of the cleaned data.
+ - Performing EDA and Preprocessing.
+ - Creating the regression models.
+   - Spliting the data in train (x) and test (y) set.
+   - Creating the models.
+   - Training and testing the data.
+ - Performing accuracy check.
+ - Performing Hyperparameter tuning.
+ - Performing cross validation. 
